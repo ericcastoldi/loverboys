@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+
+.band {
+  height    : 100vh;
+  text-align: center;
+}
+
+.dark {
+  background-color: #000;
+  color           : #ea3aa7;
+}
+
+.light {
+  background-color: #fff;
+  color #333;
+}
+
+.cover {
+    background             : url("img/loverboys-neon-cover.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size   : cover;
+    -o-background-size     : cover;
+    background-size        : cover;
+
+  }
+
+  .social {
+  	text-align      : center;
+	background-color: rgba(255,255,255,0.5);
+  	font-size       : 1.2rem;
+	position        : absolute;
+  	bottom          : 50vh;
+  	text-align: center;
+  }
