@@ -1,0 +1,24 @@
+{
+  "name": "loverboys",
+  "version": "1.0.0",
+  "description": "Site da banda Loverboys\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[D de Indie, Pop e Rock Loverboys, de Blumenau - SC. www.loverboysband.com - contato@loverboysband.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "loverboys",
+    "loverboysband",
+    "band",
+    "banda",
+    "indie",
+    "pop",
+    "rock"
+  ],
+  "author": "Eric Castoldi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
